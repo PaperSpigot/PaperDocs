@@ -1,9 +1,16 @@
-============
-Contributing
-============
+=====================
+Contributing to Paper
+=====================
 
-This page has yet to be written.
+We are happy you're interested in contributing to our projects. We are typically very lenient with all submitted PRs, however there are still some guidelines you should follow to help the approval process go more smoothly.
 
-It will contain information about contributing to the PaperMC project.
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
 
-For now see our `main repository's contributing information <https://github.com/PaperMC/Paper/blob/master/CONTRIBUTING.md>`_.
+    no-organizations
+    requirements
+    patches/index
+    pull-requests/index
+    tasks/index
+    faq
